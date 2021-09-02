@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 Hi, friend, nice to meet you. I'm jrfeng, an android developer. 
+😄 I'm jrfeng, an android developer. 
 
 - 💬 wechat: `jrfeng331`
 - 📫 email: `jrfeng331@qq.com` or `jrfeng331@gmail.com`
