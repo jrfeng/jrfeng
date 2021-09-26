@@ -2,7 +2,7 @@
 
 😄 I'm jrfeng, an android developer. 
 
-- 💬 wechat: `jrfeng331`
-- 📫 email: `jrfeng331@qq.com`
+📫 How to reach me:
 
-![](https://github-readme-stats.vercel.app/api?username=jrfeng)
+- WeChat: `jrfeng331`
+- Email: `jrfeng331@qq.com`
