@@ -4,5 +4,5 @@
 
 How to reach me:
 
-- 📫 Email: `jrfeng331@qq.com`、`jrfeng331@gmail.com`
+- 📫 Email: `jrfeng331@qq.com`, `jrfeng331@gmail.com`
 - 💬 WeChat: `jrfeng331`
